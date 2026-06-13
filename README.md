@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tripati291/leetquest/tree/master/0001-two-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripati291/leetquest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0575-distribute-candies](https://github.com/tripati291/leetquest/tree/master/0575-distribute-candies) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tripati291/leetquest/tree/master/3689-maximum-total-subarray-value-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripati291/leetquest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tripati291/leetquest/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/tripati291/leetquest/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/tripati291/leetquest/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tripati291/leetquest/tree/master/0115-distinct-subsequences) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripati291/leetquest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/tripati291/leetquest/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/tripati291/leetquest/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tripati291/leetquest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
