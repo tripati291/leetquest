@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tripati291/leetquest/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/tripati291/leetquest/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/tripati291/leetquest/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tripati291/leetquest/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tripati291/leetquest/tree/master/0345-reverse-vowels-of-a-string) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/tripati291/leetquest/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tripati291/leetquest/tree/master/0115-distinct-subsequences) |
 | [0583-delete-operation-for-two-strings](https://github.com/tripati291/leetquest/tree/master/0583-delete-operation-for-two-strings) |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/tripati291/leetquest/tree/master/3838-weighted-word-mapping) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
