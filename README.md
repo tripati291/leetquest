@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripati291/leetquest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tripati291/leetquest/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tripati291/leetquest/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/tripati291/leetquest/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tripati291/leetquest/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0575-distribute-candies](https://github.com/tripati291/leetquest/tree/master/0575-distribute-candies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripati291/leetquest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tripati291/leetquest/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tripati291/leetquest/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/tripati291/leetquest/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tripati291/leetquest/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0583-delete-operation-for-two-strings](https://github.com/tripati291/leetquest/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tripati291/leetquest/tree/master/0069-sqrtx) |
+| [0300-longest-increasing-subsequence](https://github.com/tripati291/leetquest/tree/master/0300-longest-increasing-subsequence) |
 ## Simulation
 |  |
 | ------- |
