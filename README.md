@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tripati291/leetquest/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/tripati291/leetquest/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/tripati291/leetquest/tree/master/0415-add-strings) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/tripati291/leetquest/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tripati291/leetquest/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
