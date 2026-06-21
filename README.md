@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tripati291/leetquest/tree/master/0455-assign-cookies) |
 | [0575-distribute-candies](https://github.com/tripati291/leetquest/tree/master/0575-distribute-candies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0904-fruit-into-baskets](https://github.com/tripati291/leetquest/tree/master/0904-fruit-into-baskets) |
 | [1732-find-the-highest-altitude](https://github.com/tripati291/leetquest/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tripati291/leetquest/tree/master/1840-maximum-building-height) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tripati291/leetquest/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tripati291/leetquest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/tripati291/leetquest/tree/master/0575-distribute-candies) |
+| [0904-fruit-into-baskets](https://github.com/tripati291/leetquest/tree/master/0904-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/tripati291/leetquest/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
