@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/tripati291/leetquest/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/tripati291/leetquest/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/tripati291/leetquest/tree/master/3838-weighted-word-mapping) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/tripati291/leetquest/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Hash Table
 |  |
 | ------- |
