@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tripati291/leetquest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/tripati291/leetquest/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/tripati291/leetquest/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/tripati291/leetquest/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/tripati291/leetquest/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/tripati291/leetquest/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/tripati291/leetquest/tree/master/1092-shortest-common-supersequence) |
+| [1189-maximum-number-of-balloons](https://github.com/tripati291/leetquest/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tripati291/leetquest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3612-process-string-with-special-operations-i](https://github.com/tripati291/leetquest/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/tripati291/leetquest/tree/master/3614-process-string-with-special-operations-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/tripati291/leetquest/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
