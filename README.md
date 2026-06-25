@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tripati291/leetquest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/tripati291/leetquest/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/tripati291/leetquest/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/tripati291/leetquest/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/tripati291/leetquest/tree/master/0575-distribute-candies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tripati291/leetquest/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/tripati291/leetquest/tree/master/0506-relative-ranks) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/tripati291/leetquest/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Math
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tripati291/leetquest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/tripati291/leetquest/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/tripati291/leetquest/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/tripati291/leetquest/tree/master/0506-relative-ranks) |
 | [1048-longest-string-chain](https://github.com/tripati291/leetquest/tree/master/1048-longest-string-chain) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tripati291/leetquest/tree/master/1840-maximum-building-height) |
