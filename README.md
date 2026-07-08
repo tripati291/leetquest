@@ -94,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/tripati291/leetquest/tree/master/0968-binary-tree-cameras) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tripati291/leetquest/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/tripati291/leetquest/tree/master/0968-binary-tree-cameras) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tripati291/leetquest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tripati291/leetquest/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/tripati291/leetquest/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tripati291/leetquest/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0968-binary-tree-cameras](https://github.com/tripati291/leetquest/tree/master/0968-binary-tree-cameras) |
 | [1048-longest-string-chain](https://github.com/tripati291/leetquest/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/tripati291/leetquest/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/tripati291/leetquest/tree/master/1137-n-th-tribonacci-number) |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
+## Binary Tree
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/tripati291/leetquest/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
