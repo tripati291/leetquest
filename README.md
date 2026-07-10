@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tripati291/leetquest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tripati291/leetquest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/tripati291/leetquest/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tripati291/leetquest/tree/master/3689-maximum-total-subarray-value-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tripati291/leetquest/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/tripati291/leetquest/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/tripati291/leetquest/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tripati291/leetquest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/tripati291/leetquest/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tripati291/leetquest/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -162,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/tripati291/leetquest/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tripati291/leetquest/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tripati291/leetquest/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tripati291/leetquest/tree/master/0067-add-binary) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
 |  |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tripati291/leetquest/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/tripati291/leetquest/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tripati291/leetquest/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/tripati291/leetquest/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
@@ -208,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tripati291/leetquest/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -254,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tripati291/leetquest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/tripati291/leetquest/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
