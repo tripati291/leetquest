@@ -15,7 +15,7 @@ public:
         cuts.push_back(n);
         cuts.insert(cuts.begin() , 0);
         sort(cuts.begin(), cuts.end());
-        vector<vector<int>> dp(c+2, vector<int>(c+2, -1));
+        vector<vector<int>> dp(c+1, vector<int>(c+1, -1));
         return f(1, c, cuts, dp);
     }
 };
