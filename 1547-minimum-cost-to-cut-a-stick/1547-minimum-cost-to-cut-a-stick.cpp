@@ -20,7 +20,6 @@ public:
             for(int j=1; j<=c; j++) {
                 if(i>j) continue;
                 int mini= 1e9;
-                if(dp[i][j]!=0) return dp[i][j];
                 for(int a=i ; a <= j; a++) {
                     int cost = cuts[j+1] - cuts[i-1] + dp[i][a-1] + dp[a+1][j];
                     mini = min(mini, cost);
