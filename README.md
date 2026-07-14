@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tripati291/leetquest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tripati291/leetquest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tripati291/leetquest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/tripati291/leetquest/tree/master/3620-network-recovery-pathways) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/tripati291/leetquest/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tripati291/leetquest/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/tripati291/leetquest/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tripati291/leetquest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tripati291/leetquest/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tripati291/leetquest/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tripati291/leetquest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tripati291/leetquest/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tripati291/leetquest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/tripati291/leetquest/tree/master/3620-network-recovery-pathways) |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/tripati291/leetquest/tree/master/0402-remove-k-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tripati291/leetquest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
