@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0904-fruit-into-baskets](https://github.com/tripati291/leetquest/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/tripati291/leetquest/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tripati291/leetquest/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tripati291/leetquest/tree/master/1331-rank-transform-of-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tripati291/leetquest/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/tripati291/leetquest/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/tripati291/leetquest/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/tripati291/leetquest/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/tripati291/leetquest/tree/master/3614-process-string-with-special-operations-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
 ## Binary Tree
 |  |
