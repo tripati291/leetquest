@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/tripati291/leetquest/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/tripati291/leetquest/tree/master/0968-binary-tree-cameras) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tripati291/leetquest/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/tripati291/leetquest/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tripati291/leetquest/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0894-all-possible-full-binary-trees](https://github.com/tripati291/leetquest/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/tripati291/leetquest/tree/master/0968-binary-tree-cameras) |
 | [1025-divisor-game](https://github.com/tripati291/leetquest/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/tripati291/leetquest/tree/master/1048-longest-string-chain) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/tripati291/leetquest/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/tripati291/leetquest/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/tripati291/leetquest/tree/master/0894-all-possible-full-binary-trees) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tripati291/leetquest/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tripati291/leetquest/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/tripati291/leetquest/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tripati291/leetquest/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/tripati291/leetquest/tree/master/0894-all-possible-full-binary-trees) |
 | [1137-n-th-tribonacci-number](https://github.com/tripati291/leetquest/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Indexed Tree
 |  |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/tripati291/leetquest/tree/master/0894-all-possible-full-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/tripati291/leetquest/tree/master/0968-binary-tree-cameras) |
 ## Monotonic Stack
 |  |
