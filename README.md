@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/tripati291/leetquest/tree/master/0575-distribute-candies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tripati291/leetquest/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0861-score-after-flipping-matrix](https://github.com/tripati291/leetquest/tree/master/0861-score-after-flipping-matrix) |
 | [0904-fruit-into-baskets](https://github.com/tripati291/leetquest/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/tripati291/leetquest/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tripati291/leetquest/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/tripati291/leetquest/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0861-score-after-flipping-matrix](https://github.com/tripati291/leetquest/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tripati291/leetquest/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tripati291/leetquest/tree/master/0067-add-binary) |
+| [0861-score-after-flipping-matrix](https://github.com/tripati291/leetquest/tree/master/0861-score-after-flipping-matrix) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/tripati291/leetquest/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tripati291/leetquest/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/tripati291/leetquest/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
 ## Binary Tree
