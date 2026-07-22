@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tripati291/leetquest/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tripati291/leetquest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/tripati291/leetquest/tree/master/0575-distribute-candies) |
+| [0763-partition-labels](https://github.com/tripati291/leetquest/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/tripati291/leetquest/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/tripati291/leetquest/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/tripati291/leetquest/tree/master/1189-maximum-number-of-balloons) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tripati291/leetquest/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/tripati291/leetquest/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tripati291/leetquest/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/tripati291/leetquest/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/tripati291/leetquest/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/tripati291/leetquest/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tripati291/leetquest/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tripati291/leetquest/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/tripati291/leetquest/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/tripati291/leetquest/tree/master/0583-delete-operation-for-two-strings) |
+| [0763-partition-labels](https://github.com/tripati291/leetquest/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/tripati291/leetquest/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tripati291/leetquest/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/tripati291/leetquest/tree/master/1092-shortest-common-supersequence) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tripati291/leetquest/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tripati291/leetquest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/tripati291/leetquest/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/tripati291/leetquest/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/tripati291/leetquest/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tripati291/leetquest/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tripati291/leetquest/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
