@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tripati291/leetquest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tripati291/leetquest/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/tripati291/leetquest/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/tripati291/leetquest/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tripati291/leetquest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tripati291/leetquest/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tripati291/leetquest/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/tripati291/leetquest/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tripati291/leetquest/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/tripati291/leetquest/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/tripati291/leetquest/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/tripati291/leetquest/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tripati291/leetquest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tripati291/leetquest/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tripati291/leetquest/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tripati291/leetquest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/tripati291/leetquest/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tripati291/leetquest/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tripati291/leetquest/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/tripati291/leetquest/tree/master/3612-process-string-with-special-operations-i) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/tripati291/leetquest/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/tripati291/leetquest/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Binary Tree
 |  |
 | ------- |
