@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/tripati291/leetquest/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tripati291/leetquest/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tripati291/leetquest/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tripati291/leetquest/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/tripati291/leetquest/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/tripati291/leetquest/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tripati291/leetquest/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/tripati291/leetquest/tree/master/1492-the-kth-factor-of-n) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tripati291/leetquest/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/tripati291/leetquest/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tripati291/leetquest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tripati291/leetquest/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tripati291/leetquest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -444,10 +447,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/tripati291/leetquest/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tripati291/leetquest/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Queue
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tripati291/leetquest/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tripati291/leetquest/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
