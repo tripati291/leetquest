@@ -478,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tripati291/leetquest/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tripati291/leetquest/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
