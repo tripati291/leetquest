@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tripati291/leetquest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tripati291/leetquest/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/tripati291/leetquest/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tripati291/leetquest/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/tripati291/leetquest/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tripati291/leetquest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tripati291/leetquest/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tripati291/leetquest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tripati291/leetquest/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/tripati291/leetquest/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tripati291/leetquest/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/tripati291/leetquest/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/tripati291/leetquest/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tripati291/leetquest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/tripati291/leetquest/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tripati291/leetquest/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tripati291/leetquest/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tripati291/leetquest/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tripati291/leetquest/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |
 | ------- |
@@ -491,11 +496,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/tripati291/leetquest/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tripati291/leetquest/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -515,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tripati291/leetquest/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
