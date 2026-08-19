@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/tripati291/leetquest/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tripati291/leetquest/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/tripati291/leetquest/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tripati291/leetquest/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tripati291/leetquest/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/tripati291/leetquest/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/tripati291/leetquest/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tripati291/leetquest/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/tripati291/leetquest/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tripati291/leetquest/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tripati291/leetquest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tripati291/leetquest/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/tripati291/leetquest/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/tripati291/leetquest/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tripati291/leetquest/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/tripati291/leetquest/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tripati291/leetquest/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/tripati291/leetquest/tree/master/0078-subsets) |
 | [0861-score-after-flipping-matrix](https://github.com/tripati291/leetquest/tree/master/0861-score-after-flipping-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/tripati291/leetquest/tree/master/1386-cinema-seat-allocation) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tripati291/leetquest/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/tripati291/leetquest/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tripati291/leetquest/tree/master/3513-number-of-unique-xor-triplets-i) |
