@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tripati291/leetquest/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/tripati291/leetquest/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/tripati291/leetquest/tree/master/0072-edit-distance) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tripati291/leetquest/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/tripati291/leetquest/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tripati291/leetquest/tree/master/0115-distinct-subsequences) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tripati291/leetquest/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/tripati291/leetquest/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/tripati291/leetquest/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tripati291/leetquest/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -561,5 +564,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tripati291/leetquest/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tripati291/leetquest/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
