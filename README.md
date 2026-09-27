@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/tripati291/leetquest/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/tripati291/leetquest/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/tripati291/leetquest/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tripati291/leetquest/tree/master/0345-reverse-vowels-of-a-string) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/tripati291/leetquest/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/tripati291/leetquest/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tripati291/leetquest/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tripati291/leetquest/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
