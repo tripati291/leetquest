@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/tripati291/leetquest/tree/master/1492-the-kth-factor-of-n) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1641-count-sorted-vowel-strings](https://github.com/tripati291/leetquest/tree/master/1641-count-sorted-vowel-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tripati291/leetquest/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/tripati291/leetquest/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tripati291/leetquest/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tripati291/leetquest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tripati291/leetquest/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1641-count-sorted-vowel-strings](https://github.com/tripati291/leetquest/tree/master/1641-count-sorted-vowel-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tripati291/leetquest/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tripati291/leetquest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tripati291/leetquest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/tripati291/leetquest/tree/master/1641-count-sorted-vowel-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/tripati291/leetquest/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tripati291/leetquest/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Brainteaser
