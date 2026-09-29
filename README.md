@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/tripati291/leetquest/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tripati291/leetquest/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/tripati291/leetquest/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tripati291/leetquest/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tripati291/leetquest/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tripati291/leetquest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tripati291/leetquest/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tripati291/leetquest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tripati291/leetquest/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tripati291/leetquest/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tripati291/leetquest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tripati291/leetquest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/tripati291/leetquest/tree/master/1301-number-of-paths-with-max-score) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/tripati291/leetquest/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tripati291/leetquest/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Tree
 |  |
 | ------- |
@@ -568,4 +571,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tripati291/leetquest/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tripati291/leetquest/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tripati291/leetquest/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
