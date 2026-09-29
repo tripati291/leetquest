@@ -1,17 +1,8 @@
 class Solution {
 public:
-    int solve(int n, int start) {
-        if (n == 0)
-            return 1;
-        int ans = 0;
-
-        for (int i = start; i < 5; i++) {
-            ans += solve(n - 1, i);
-        }
-        return ans;
-    }
-
     int countVowelStrings(int n) {
-        return solve(n, 0);
+        return ((n+1)*(n+2)*(n+3)*(n+4))/24;
+        // this is n+4 C 4 ; jaise RMO questions mein krte the 
+        // like a+e+i+o+u = n
     }
 };
