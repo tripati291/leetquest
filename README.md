@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tripati291/leetquest/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/tripati291/leetquest/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tripati291/leetquest/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripati291/leetquest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tripati291/leetquest/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tripati291/leetquest/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tripati291/leetquest/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tripati291/leetquest/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tripati291/leetquest/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tripati291/leetquest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tripati291/leetquest/tree/master/3501-maximize-active-section-with-trade-ii) |
