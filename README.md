@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tripati291/leetquest/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/tripati291/leetquest/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/tripati291/leetquest/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/tripati291/leetquest/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tripati291/leetquest/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tripati291/leetquest/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tripati291/leetquest/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/tripati291/leetquest/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/tripati291/leetquest/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tripati291/leetquest/tree/master/0054-spiral-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/tripati291/leetquest/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/tripati291/leetquest/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
