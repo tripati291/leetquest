@@ -4,13 +4,13 @@ public:
         unordered_set<int> set(nums.begin(), nums.end());
         int maxi = 0;
 
-        for(int num : set) {
-            if(set.find(num - 1) == set.end()) {
-                int curr = num;
+        for(int a : set) {
+            if(set.find(a - 1) == set.end()) {
+                int start = a;
                 int cnt = 1;
 
-                while(set.find(curr + 1) != set.end()) {
-                    curr++;
+                while(set.find(start + 1) != set.end()) {
+                    start++;
                     cnt++;
                 }
 
