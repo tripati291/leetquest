@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tripati291/leetquest/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tripati291/leetquest/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/tripati291/leetquest/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/tripati291/leetquest/tree/master/0044-wildcard-matching) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tripati291/leetquest/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/tripati291/leetquest/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/tripati291/leetquest/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tripati291/leetquest/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tripati291/leetquest/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tripati291/leetquest/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tripati291/leetquest/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tripati291/leetquest/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
