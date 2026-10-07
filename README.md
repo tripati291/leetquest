@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tripati291/leetquest/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/tripati291/leetquest/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tripati291/leetquest/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/tripati291/leetquest/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tripati291/leetquest/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/tripati291/leetquest/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/tripati291/leetquest/tree/master/0415-add-strings) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tripati291/leetquest/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/tripati291/leetquest/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/tripati291/leetquest/tree/master/0301-remove-invalid-parentheses) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tripati291/leetquest/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tripati291/leetquest/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tripati291/leetquest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tripati291/leetquest/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/tripati291/leetquest/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/tripati291/leetquest/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/tripati291/leetquest/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tripati291/leetquest/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Database
 |  |
