@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tripati291/leetquest/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/tripati291/leetquest/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/tripati291/leetquest/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/tripati291/leetquest/tree/master/1603-design-parking-system) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tripati291/leetquest/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/tripati291/leetquest/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/tripati291/leetquest/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/tripati291/leetquest/tree/master/1189-maximum-number-of-balloons) |
+| [1603-design-parking-system](https://github.com/tripati291/leetquest/tree/master/1603-design-parking-system) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tripati291/leetquest/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -650,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tripati291/leetquest/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/tripati291/leetquest/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
