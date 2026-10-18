@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tripati291/leetquest/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tripati291/leetquest/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1710-maximum-units-on-a-truck](https://github.com/tripati291/leetquest/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/tripati291/leetquest/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tripati291/leetquest/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tripati291/leetquest/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/tripati291/leetquest/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tripati291/leetquest/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1710-maximum-units-on-a-truck](https://github.com/tripati291/leetquest/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tripati291/leetquest/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tripati291/leetquest/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tripati291/leetquest/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1710-maximum-units-on-a-truck](https://github.com/tripati291/leetquest/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/tripati291/leetquest/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tripati291/leetquest/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tripati291/leetquest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
