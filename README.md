@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tripati291/leetquest/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tripati291/leetquest/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/tripati291/leetquest/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/tripati291/leetquest/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/tripati291/leetquest/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/tripati291/leetquest/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tripati291/leetquest/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -618,10 +619,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tripati291/leetquest/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/tripati291/leetquest/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tripati291/leetquest/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/tripati291/leetquest/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tripati291/leetquest/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/tripati291/leetquest/tree/master/1140-stone-game-ii) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tripati291/leetquest/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/tripati291/leetquest/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tripati291/leetquest/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tripati291/leetquest/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/tripati291/leetquest/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
@@ -698,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tripati291/leetquest/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tripati291/leetquest/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
