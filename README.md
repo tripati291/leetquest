@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/tripati291/leetquest/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/tripati291/leetquest/tree/master/3886-sum-of-sortable-integers) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/tripati291/leetquest/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3934-smallest-unique-subarray](https://github.com/tripati291/leetquest/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/tripati291/leetquest/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tripati291/leetquest/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tripati291/leetquest/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/tripati291/leetquest/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tripati291/leetquest/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tripati291/leetquest/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/tripati291/leetquest/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/tripati291/leetquest/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -717,4 +720,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tripati291/leetquest/tree/master/0292-nim-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tripati291/leetquest/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tripati291/leetquest/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tripati291/leetquest/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
