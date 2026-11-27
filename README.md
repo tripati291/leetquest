@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/tripati291/leetquest/tree/master/3886-sum-of-sortable-integers) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/tripati291/leetquest/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3934-smallest-unique-subarray](https://github.com/tripati291/leetquest/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/tripati291/leetquest/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tripati291/leetquest/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/tripati291/leetquest/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tripati291/leetquest/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/tripati291/leetquest/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/tripati291/leetquest/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tripati291/leetquest/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/tripati291/leetquest/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/tripati291/leetquest/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
